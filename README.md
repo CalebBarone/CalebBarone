@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CalebBarone
 - 👀 I’m interested in Gaming, Modding, Software Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning
 - 📫 How to reach me: calebgbarone@gmail.com
 
 <!---
